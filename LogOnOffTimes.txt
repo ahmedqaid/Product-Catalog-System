@@ -1,0 +1,90 @@
+root logged on ADMIN Sat Nov 30 00:43:13 SGT 2019
+root logged on ADMIN Sat Nov 30 00:43:15 SGT 2019
+admin logged on Product Manager Sat Nov 30 00:43:23 SGT 2019
+root logged on ADMIN Sat Nov 30 00:45:15 SGT 2019
+admin logged on Product Manager Sat Nov 30 00:45:37 SGT 2019
+root logged on ADMIN Sat Nov 30 00:51:14 SGT 2019
+root logged on ADMIN Sat Nov 30 00:52:24 SGT 2019
+root logged on ADMIN Sat Nov 30 00:52:45 SGT 2019
+root logged on ADMIN Sat Nov 30 01:01:43 SGT 2019
+root logged on ADMIN Sat Nov 30 01:07:44 SGT 2019
+root logged on ADMIN Sat Nov 30 01:08:00 SGT 2019
+admin logged on Product Manager Sat Nov 30 01:10:53 SGT 2019
+admin logged on Product Manager Sat Nov 30 01:34:26 SGT 2019
+admin logged on Product Manager Sat Nov 30 01:35:30 SGT 2019
+admin logged on Product Manager Sat Nov 30 01:36:25 SGT 2019
+admin logged on Product Manager Sat Nov 30 01:37:17 SGT 2019
+admin logged on Product Manager Sat Nov 30 01:39:28 SGT 2019
+admin logged on Product Manager Sat Nov 30 01:55:06 SGT 2019
+admin logged on Product Manager Sat Nov 30 01:56:30 SGT 2019
+admin logged on Product Manager Sat Nov 30 02:01:00 SGT 2019
+admin logged on Product Manager Sat Nov 30 02:22:32 SGT 2019
+admin logged on Product Manager Sat Nov 30 02:22:55 SGT 2019
+admin logged on Product Manager Sat Nov 30 02:23:09 SGT 2019
+admin logged on Product Manager Sat Nov 30 02:24:35 SGT 2019
+admin logged on Product Manager Sat Nov 30 02:25:34 SGT 2019
+admin logged on Product Manager Sat Nov 30 02:43:53 SGT 2019
+root logged on ADMIN Sat Nov 30 02:49:01 SGT 2019
+admin logged on Product Manager Sat Nov 30 04:56:00 SGT 2019
+admin logged on Product Manager Sat Nov 30 05:15:39 SGT 2019
+admin logged on Product Manager Sat Nov 30 05:17:13 SGT 2019
+admin logged on Product Manager Sat Nov 30 05:18:01 SGT 2019
+admin logged on Product Manager Sat Nov 30 05:21:59 SGT 2019
+root logged on ADMIN Sat Nov 30 05:23:01 SGT 2019
+admin logged on Product Manager Sat Nov 30 05:23:17 SGT 2019
+admin logged on Product Manager Sat Nov 30 12:39:45 SGT 2019
+admin logged on Product Manager Sat Nov 30 12:40:06 SGT 2019
+admin logged on Product Manager Sat Nov 30 20:17:19 SGT 2019
+admin logged on Product Manager Sat Nov 30 20:17:47 SGT 2019
+admin logged on Product Manager Sun Dec 01 22:12:34 SGT 2019
+admin logged on Product Manager Sun Dec 01 23:34:58 SGT 2019
+admin logged on Product Manager Mon Dec 02 00:55:49 SGT 2019
+admin logged on Product Manager Mon Dec 02 00:56:52 SGT 2019
+admin logged on Product Manager Mon Dec 02 01:05:39 SGT 2019
+admin logged on Product Manager Mon Dec 02 01:07:04 SGT 2019
+admin logged on Product Manager Mon Dec 02 03:54:13 SGT 2019
+admin logged on Product Manager Mon Dec 02 03:55:11 SGT 2019
+admin logged on Product Manager Mon Dec 02 04:11:54 SGT 2019
+admin logged on Product Manager Mon Dec 02 04:12:09 SGT 2019
+admin logged on Product Manager Mon Dec 02 04:16:50 SGT 2019
+admin logged on Product Manager Mon Dec 02 04:56:55 SGT 2019
+admin logged on Product Manager Mon Dec 02 04:57:10 SGT 2019
+admin logged on Product Manager Mon Dec 02 05:02:36 SGT 2019
+admin logged on Product Manager Mon Dec 02 05:05:32 SGT 2019
+admin logged on Product Manager Mon Dec 02 05:09:41 SGT 2019
+root logged on ADMIN Mon Dec 02 15:16:28 SGT 2019
+null logged off null Mon Dec 02 15:40:22 SGT 2019
+admin logged on Product Manager Mon Dec 02 16:15:47 SGT 2019
+root logged on ADMIN Mon Dec 02 17:03:01 SGT 2019
+root logged on ADMIN Mon Dec 02 17:14:21 SGT 2019
+admin logged on Product Manager Mon Dec 02 17:23:40 SGT 2019
+admin logged on Product Manager Mon Dec 02 17:24:49 SGT 2019
+admin logged on Product Manager Mon Dec 02 17:26:15 SGT 2019
+root logged on ADMIN Mon Dec 02 17:26:28 SGT 2019
+root logged on ADMIN Mon Dec 02 17:27:34 SGT 2019
+root logged on ADMIN Mon Dec 02 17:28:13 SGT 2019
+root logged on ADMIN Mon Dec 02 17:28:36 SGT 2019
+root logged on ADMIN Mon Dec 02 17:29:53 SGT 2019
+root logged on ADMIN Mon Dec 02 17:30:18 SGT 2019
+root logged on ADMIN Mon Dec 02 17:30:51 SGT 2019
+root logged on ADMIN Mon Dec 02 17:31:09 SGT 2019
+admin logged on Product Manager Mon Dec 02 22:43:04 SGT 2019
+admin logged on Product Manager Fri Dec 06 05:03:09 SGT 2019
+root logged on ADMIN Fri Dec 06 05:05:53 SGT 2019
+admin logged on Product Manager Thu Dec 12 10:20:46 SGT 2019
+admin logged on Product Manager Thu Dec 12 10:22:10 SGT 2019
+admin logged on Product Manager Thu Dec 12 13:52:09 SGT 2019
+admin logged on Product Manager Thu Dec 12 13:56:40 SGT 2019
+admin logged on Product Manager Thu Dec 12 13:59:10 SGT 2019
+root logged on ADMIN Thu Dec 12 14:10:58 SGT 2019
+root logged off ADMIN Thu Dec 12 14:11:03 SGT 2019
+root logged on ADMIN Thu Dec 12 14:17:07 SGT 2019
+root logged on ADMIN Thu Dec 12 14:17:55 SGT 2019
+root logged on ADMIN Thu Dec 12 14:18:30 SGT 2019
+root logged on ADMIN Thu Dec 12 14:19:00 SGT 2019
+root logged on ADMIN Thu Dec 12 14:19:35 SGT 2019
+root logged off ADMIN Thu Dec 12 14:19:55 SGT 2019
+admin logged on Product Manager Thu Dec 12 14:20:08 SGT 2019
+admin logged on Product Manager Wed Dec 18 03:48:19 SGT 2019
+admin logged on Product Manager Wed Dec 18 03:49:40 SGT 2019
+admin logged on Product Manager Wed Dec 18 03:51:56 SGT 2019
